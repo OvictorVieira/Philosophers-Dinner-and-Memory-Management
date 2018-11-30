@@ -1,6 +1,6 @@
 # Jantar dos Filósofos + Gerenciamento de Memória
 
-Foi realizado o desenvolvimento para a resolução do classico problema dos "Jantar dos Filósofos" para a disciplina de Sistemas Operacionais da UNIVEM - Centro Universitário Eurípides de Marília, SP
+Foi realizado o desenvolvimento para a resolução do classico problema dos "Jantar do Filósofos" para a disciplina de Sistemas Operacionais da UNIVEM - Centro Universitário Eurípides de Marília, SP
 
 Para o Jantar dos Filósofos foi utilizado a Biblioteca Threading para realizar o paralelismo utilizando trheads.
 Para o Gerenciamento de Memória foram utilizados Listas(list()) e Dicionarios(disc()) para o armazenamento dos processos e indexação das páginas e frames na memória principal (Memória RAM) e memória secundária (Memória Swap).
